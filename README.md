@@ -11,3 +11,9 @@ In conclusion, the code restructuring assisted me in learning:
 . HTML semantic attributes
 . The deployments, commits, and repos on Github
 . Writing a read me file.
+
+Screenshots
+<img src=".\assets\images\Screenshot 1.png"/>
+<img src=".\assets\images\Screenshot 2.png"/>
+<img src=".\assets\images\Screenshot 3.png"/>
+<img src=".\assets\images\Screenshot 4.png"/>
